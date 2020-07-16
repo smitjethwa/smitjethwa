@@ -1,6 +1,4 @@
 ## Python Developer 🖥️ 
----
-
 Hi, I am Smit Jethwa, a passionate programmer with a curious mind who loves to solve real world problems.
 
 ### I am passionate about
