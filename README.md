@@ -9,7 +9,7 @@ Hi, I am Smit Jethwa, backend developer
 
 ### Skills
 ----
-[![Generic badge](https://img.shields.io/badge/Python-Blue.svg)]() [![Generic badge](https://img.shields.io/badge/Django-Green.svg)]() [![Generic badge](https://img.shields.io/badge/TensorFlow-Orange.svg)]() [![Generic badge](https://img.shields.io/badge/HTML-Red.svg)]() [![Generic badge](https://img.shields.io/badge/CSS-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Bootstrap-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/JavaScript-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/DialogFlow-Orange.svg)]() 
+[![Generic badge](https://img.shields.io/badge/Python-Blue.svg)]() [![Generic badge](https://img.shields.io/badge/Django-Green.svg)]() [![Generic badge](https://img.shields.io/badge/TensorFlow-Orange.svg)]() [![Generic badge](https://img.shields.io/badge/HTML-Red.svg)]() [![Generic badge](https://img.shields.io/badge/CSS-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/Bootstrap-Purple.svg)]() [![Generic badge](https://img.shields.io/badge/JavaScript-Yellow.svg)]() [![Generic badge](https://img.shields.io/badge/DialogFlow-Orange.svg)]() [![Peerlist](https://github-readme-badge.peerlist.io/api/smitjethwa)](https://peerlist.io/smitjethwa)
 
 
 <!--
